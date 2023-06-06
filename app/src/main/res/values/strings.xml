@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">SimpleToDo</string>
+    <string name="app_name">Unique To-Do App</string>
+    <string name="delete_button">REMOVE</string>
+    <string name="clear_button">CLEAR ALL</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="add_button">ADD TASK</string>
+    <string-array name="customSpinnerItems">
+        <item>Add a new item</item>
+        <item>Remove an item</item>
+    </string-array>
 </resources>
